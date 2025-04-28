@@ -1,0 +1,8 @@
+bundle:
+  name: Databricks_Repo
+
+targets:
+  dev:
+    workspace:
+      host: https://adb-1231335714174499.19.azuredatabricks.net
+    mode: development
