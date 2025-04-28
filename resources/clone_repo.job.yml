@@ -9,4 +9,4 @@ resources:
             node_type_id: "Standard_DS3_v2"
             num_workers: 1
           notebook_task:
-            notebook_path: "/Users/plahari@microsoft.com/Databricks_Repo/notebooks/clone_repo"
+            notebook_path: "/Users/valinisunthwal2003@gmail.com/Databricks_Repo/notebooks/clone_repo"
